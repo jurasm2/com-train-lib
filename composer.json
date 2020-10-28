@@ -1,0 +1,10 @@
+{
+    "name": "jurasm2/com-train-lib",
+    "authors": [
+        {
+            "name": "Marek Juras",
+            "email": "marek.juras@quanti.cz"
+        }
+    ],
+    "require": {}
+}
